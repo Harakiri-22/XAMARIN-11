@@ -1,0 +1,110 @@
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\App411.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\App411.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage.xaml.g.cs
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\SafePage.xaml.g.cs
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\App411.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\App411.AssemblyInfo.cs
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\App411.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\App411\App411\App411\bin\Debug\netstandard2.0\App411.deps.json
+C:\Users\Alex\source\repos\App411\App411\App411\bin\Debug\netstandard2.0\App411.dll
+C:\Users\Alex\source\repos\App411\App411\App411\bin\Debug\netstandard2.0\App411.pdb
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\App411.dll
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\refint\App411.dll
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\App411.pdb
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\ref\App411.dll
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage2.xaml.g.cs
+C:\Users\Alex\source\repos\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage3.xaml.g.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.csproj.AssemblyReference.cache
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage.xaml.g.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage2.xaml.g.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage3.xaml.g.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\SafePage.xaml.g.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.AssemblyInfoInputs.cache
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.AssemblyInfo.cs
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.dll
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\refint\App411.dll
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.pdb
+C:\Users\ИСП-44\Desktop\App411\App411\App411\bin\Debug\netstandard2.0\App411.deps.json
+C:\Users\ИСП-44\Desktop\App411\App411\App411\bin\Debug\netstandard2.0\App411.dll
+C:\Users\ИСП-44\Desktop\App411\App411\App411\bin\Debug\netstandard2.0\App411.pdb
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ИСП-44\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ref\App411.dll
+C:\Users\Alex\Desktop\App411\App411\App411\bin\Debug\netstandard2.0\App411.deps.json
+C:\Users\Alex\Desktop\App411\App411\App411\bin\Debug\netstandard2.0\App411.dll
+C:\Users\Alex\Desktop\App411\App411\App411\bin\Debug\netstandard2.0\App411.pdb
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage.xaml.g.cs
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage2.xaml.g.cs
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage3.xaml.g.cs
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\SafePage.xaml.g.cs
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.AssemblyInfo.cs
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.dll
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\refint\App411.dll
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.pdb
+C:\Users\Alex\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ref\App411.dll
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\bin\Debug\netstandard2.0\App411.deps.json
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\bin\Debug\netstandard2.0\App411.dll
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\bin\Debug\netstandard2.0\App411.pdb
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\App411.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\App411.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage.xaml.g.cs
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage2.xaml.g.cs
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage3.xaml.g.cs
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\SafePage.xaml.g.cs
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\App411.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\App411.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\App411.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\App411.dll
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\refint\App411.dll
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\App411.pdb
+C:\Users\Alex\Desktop\Новая папка\ПРОГИ\App411\App411\App411\obj\Debug\netstandard2.0\ref\App411.dll
+C:\Users\Admin\Desktop\App411\App411\App411\bin\Debug\netstandard2.0\App411.deps.json
+C:\Users\Admin\Desktop\App411\App411\App411\bin\Debug\netstandard2.0\App411.dll
+C:\Users\Admin\Desktop\App411\App411\App411\bin\Debug\netstandard2.0\App411.pdb
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage.xaml.g.cs
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage2.xaml.g.cs
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ModalPage3.xaml.g.cs
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\SafePage.xaml.g.cs
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.AssemblyInfo.cs
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.dll
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\refint\App411.dll
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\App411.pdb
+C:\Users\Admin\Desktop\App411\App411\App411\obj\Debug\netstandard2.0\ref\App411.dll

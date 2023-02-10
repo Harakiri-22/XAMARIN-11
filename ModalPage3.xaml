@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:App411"
+             x:Class="App411.ModalPage3">
+    <ContentPage.Resources>
+        <ResourceDictionary >
+            <Style x:Key="entryStyle" TargetType="Entry">
+                <Setter Property="TextColor" Value="Yellow" />
+                <Style.Triggers>
+                    <Trigger Property="Entry.IsFocused" Value="True" TargetType="Entry">
+                        <Setter Property="TextColor" Value="Red"/>
+                        <Setter Property ="BackgroundColor" Value="#696969"/>
+                    </Trigger>
+                    <EventTrigger Event="TextChanged">
+                        <local:EntryValidation2/>
+                    </EventTrigger>
+                </Style.Triggers>
+            </Style>
+
+            <Style x:Key="entryStyle1" TargetType="Entry">
+                <Setter Property="TextColor" Value="#EA8DF7"/>
+                <Setter Property ="BackgroundColor" Value="#1CA9C9"/>
+            </Style>
+
+            <Style x:Key="DataPicker" TargetType="DatePicker">
+                <Setter Property ="TextColor" Value="#922B3E"/>
+                <Setter Property ="BackgroundColor" Value="#62639B"/>
+                <Setter Property ="FontSize" Value="24"/>
+            </Style>
+
+            <Style x:Key="Text" TargetType="Label">
+                <Setter Property ="TextColor" Value="#915F6D"/>
+                <Setter Property ="BackgroundColor" Value="#8C4743"/>
+                <Setter Property ="FontSize" Value="20"/>
+            </Style>
+
+            <Style x:Key="Text1" TargetType="Label">
+                <Setter Property ="TextColor" Value="#4B0082"/>
+                <Setter Property ="BackgroundColor" Value="#8E4585"/>
+                <Setter Property ="FontSize" Value="25"/>
+            </Style>
+
+            <Style x:Key="Picker" TargetType="Picker">
+                <Setter Property ="TextColor" Value="#763C28"/>
+                <Setter Property ="BackgroundColor" Value="#FCB4D5"/>
+            </Style>
+
+            <Style x:Key="Picker1" TargetType="Picker">
+                <Setter Property ="TextColor" Value="#FF7538"/>
+                <Setter Property ="BackgroundColor" Value="#FF7F50"/>
+            </Style>
+
+            <Style x:Key="Picker2" TargetType="Picker">
+                <Setter Property ="TextColor" Value="#D8DEBA"/>
+                <Setter Property ="BackgroundColor" Value="#C93C20"/>
+            </Style>
+
+            <Style x:Key="Picker3" TargetType="Picker">
+                <Setter Property ="TextColor" Value="#95500C"/>
+                <Setter Property ="BackgroundColor" Value="#95500C"/>
+            </Style>
+
+            <Style x:Key="Picker4" TargetType="Picker">
+                <Setter Property ="TextColor" Value="#FFF5EE"/>
+                <Setter Property ="BackgroundColor" Value="#A25F2A"/>
+            </Style>
+
+            <Style x:Key="Picker5" TargetType="Picker">
+                <Setter Property ="TextColor" Value="#EFD334"/>
+                <Setter Property ="BackgroundColor" Value="#82898F"/>
+            </Style>
+
+            <Style x:Key="Picker6" TargetType="Picker">
+                <Setter Property ="TextColor" Value="#ADD8E6"/>
+                <Setter Property ="BackgroundColor" Value="#E5BE01"/>
+            </Style>
+
+            <Style x:Key="Picker7" TargetType="Picker">
+                <Setter Property ="TextColor" Value="#FF97BB"/>
+                <Setter Property ="BackgroundColor" Value="#C71585"/>
+            </Style>
+
+            <Style x:Key="Butt1" TargetType="Button">
+                <Setter Property ="TextColor" Value="#EA7E5D"/>
+                <Setter Property ="BackgroundColor" Value="#6495ED"/>
+                <Setter Property ="FontSize" Value="12"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView Background="Azure">
+        <StackLayout>
+            <Frame BackgroundColor="#423189" Padding="28">
+                <Label Text="Программа №10 Ржевского Александра из ИСП-44" HorizontalOptions="Center" TextColor="#4169E1" FontSize="23"/>
+            </Frame>
+
+            <Entry Keyboard="Text" x:Name="lastName" Placeholder="Введите фамилию" FontSize="24" Style="{StaticResource Key=entryStyle}" TextColor="Azure"/>
+            <Entry Keyboard="Text" x:Name="firstName" Placeholder="Введите имя" FontSize="20" Style="{StaticResource Key=entryStyle1}"/>
+            <Entry Keyboard="Text" x:Name="Patronymic" Placeholder="Введите отчество"/>
+
+            <DatePicker Margin="15,0, 15, 0" x:Name="dateBirth" DateSelected="dateBirth_DateSelected" MaximumDate="2022-12-09" Style="{StaticResource Key=DataPicker}"/>
+
+            <Label Text="Возраст " x:Name="age" Style="{StaticResource Key=Text}"/>
+
+            <StackLayout Orientation="Horizontal" Margin="15,0,15,0" >
+                <Label Text="Пол" VerticalOptions="Center" Margin="5,0,10,0" Style="{StaticResource Key=Picker}"/>
+                <Picker x:Name="GenderPicker" Title="Выберите пол" Style="{StaticResource Key=Picker1}">
+                    <Picker.Items>
+                        <x:String>Мужской</x:String>
+                        <x:String>Женский</x:String>
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" Margin="15,0,15,0">
+                <Label Text="Нужно общежитие" VerticalOptions="Center" Margin="5,0,10,0" Style="{StaticResource Key=Picker2}"/>
+                <Picker x:Name="needHostel" Title="Выберите ответ" WidthRequest="180" Style="{StaticResource Key=Picker3}">
+                    <Picker.Items>
+                        <x:String>Да</x:String>
+                        <x:String>Нет</x:String>
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" Margin="15,0,15,0">
+                <Label Text="Является старостой"  VerticalOptions="Center" Margin="5,0,10,0" Style="{StaticResource Key=Picker4}"/>
+                <Picker x:Name="IsHeadman" Title="Выберите ответ" WidthRequest="180" Style="{StaticResource Key=Picker5}">
+                    <Picker.Items>
+                        <x:String>Да</x:String>
+                        <x:String>Нет</x:String>
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+
+            <Label Text="Оценки" Style="{StaticResource Key=Text1}"/>
+
+            <StackLayout Orientation="Horizontal" Margin="15,0,15,0">
+                <Label Text="Успеваемость"  VerticalOptions="Center" Margin="5,0,10  ,0" Style="{StaticResource Key=Picker6}"/>
+                <Picker x:Name="progress" Title="Выберите оценки" WidthRequest="210" Style="{StaticResource Key=Picker7}">
+                    <Picker.Items>
+                        <x:String>Отличник/Отличница</x:String>
+                        <x:String>Хорошист/Хорошистка</x:String>
+                        <x:String>Троечник/Троечница</x:String>
+                        <x:String>Двоечник/Двоечница</x:String>
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+
+            <StackLayout VerticalOptions="Fill" HorizontalOptions="Fill">
+                <Image x:Name="Image3" Source="Avengers.png" Aspect="AspectFill" Margin="0,60,0,0"/>
+            </StackLayout>
+
+            <StackLayout Margin="0, 10, 0, 0">
+                <Button Text="Запомнить" HeightRequest="50" x:Name="Save" Clicked="Save_Clicked" Style="{StaticResource Key=Butt1}"/>
+                <Button Text="Выйти" HeightRequest="50" Clicked="btnBack_Clicked" Style="{StaticResource Key=Butt1}"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
